@@ -1,0 +1,33 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+.container{
+  background-color: hsl(0, 0%, 100%);
+  margin: auto;
+  margin-top: 5%;
+  border-radius: 20px;
+  text-align: center;
+  height: 500px;
+  width: 325px;
+}
+.qr-code{
+  border-radius: 10px;
+  margin-top: 12.5px;
+  height: 290px;
+  width: 300px;
+}
+.text-title{
+  margin: auto;
+  color: hsl(218, 44%, 22%);
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
+  width: 80%;
+}
+.text-paragraph{
+  margin: auto;
+  color: hsl(220, 15%, 55%);
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+  font-size: 14px;
+  width: 80%;
+}
